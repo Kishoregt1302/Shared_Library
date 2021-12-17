@@ -57,7 +57,7 @@ environment {
 
 }
 
-@Library('sharedlibrary')_
+/*@Library('sharedlibrary')_
 dockerBuild3('dockerhub',\
             'adhig93/sharedlibrary',\
             'version',\
@@ -65,3 +65,4 @@ dockerBuild3('dockerhub',\
             'https://github.com/adhig93/Dockerfile.git',\
             'main',\
             'github')
+	    */
