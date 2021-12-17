@@ -1,2 +1,2 @@
-FROM apline
+FROM alpine
 RUN apt add update
