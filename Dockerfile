@@ -1,2 +1,2 @@
 FROM alpine
-RUN apk add update
+RUN apk update
